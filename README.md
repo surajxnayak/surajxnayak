@@ -1,5 +1,5 @@
 # About Me:
-Hi, I'm Suraj Nayak, a technology enthusiast with a strong interest in artificial intelligence, entrepreneurship, and innovation. I currently work on AI solutions, LLM evaluations, and agentic AI frameworks, focusing on building practical systems that solve real-world problems. Alongside my technical pursuits, I am passionate about startups, finance, and emerging technologies. I enjoy learning, experimenting with new ideas, and collaborating with ambitious individuals to create meaningful impact.<br>
+Hi, I'm Suraj Nayak, a technology enthusiast with a strong interest in artificial intelligence, entrepreneurship, and innovation. I currently work on AI solutions, LLM evaluations, and agentic AI frameworks, focusing on building practical solutions that solve real-world problems. Alongside my technical pursuits, I am passionate about startups, finance, and emerging technologies. I enjoy learning, experimenting with new ideas, and collaborating with ambitious individuals to create meaningful impact.<br>
 
 
 ## 🌐 Socials:
